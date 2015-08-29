@@ -1,0 +1,431 @@
+{
+  "error": "OK",
+  "limit": 20,
+  "offset": 0,
+  "number_of_page_results": 20,
+  "number_of_total_results": 428,
+  "status_code": 1,
+  "results": [
+    {
+      "count_of_issues": 1,
+      "id": 22221,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/2\/24967\/452830-2000_green_lantern_and_green_lantern__1.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/2\/24967\/452830-2000_green_lantern_and_green_lantern__1.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/2\/24967\/452830-2000_green_lantern_and_green_lantern__1.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/2\/24967\/452830-2000_green_lantern_and_green_lantern__1.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/2\/24967\/452830-2000_green_lantern_and_green_lantern__1.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/2\/24967\/452830-2000_green_lantern_and_green_lantern__1.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/2\/24967\/452830-2000_green_lantern_and_green_lantern__1.jpg"
+      },
+      "name": "Green Lantern \/ Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-10\/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "start_year": "2000",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 116,
+      "id": 2839,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/0\/4\/14837-2839-16561-1-green-lantern.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/0\/4\/14837-2839-16561-1-green-lantern.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/0\/4\/14837-2839-16561-1-green-lantern.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/0\/4\/14837-2839-16561-1-green-lantern.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/0\/4\/14837-2839-16561-1-green-lantern.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/0\/4\/14837-2839-16561-1-green-lantern.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/0\/4\/14837-2839-16561-1-green-lantern.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-10\/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "start_year": "1976",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 4,
+      "id": 42399,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/1982452-01.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/1982452-01.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/1982452-01.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/1982452-01.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/1982452-01.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/1982452-01.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/1982452-01.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-2350\/",
+        "id": 2350,
+        "name": "Panini Comics"
+      },
+      "start_year": "2001",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 9,
+      "id": 69441,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/0\/3125\/3459894-gre0.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/0\/3125\/3459894-gre0.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/0\/3125\/3459894-gre0.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/0\/3125\/3459894-gre0.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/0\/3125\/3459894-gre0.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/0\/3125\/3459894-gre0.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/0\/3125\/3459894-gre0.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-2561\/",
+        "id": 2561,
+        "name": "Dino Comics"
+      },
+      "start_year": "1999",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 11,
+      "id": 51131,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/11\/119251\/2519172-greln001.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/11\/119251\/2519172-greln001.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/11\/119251\/2519172-greln001.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/11\/119251\/2519172-greln001.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/11\/119251\/2519172-greln001.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/11\/119251\/2519172-greln001.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/11\/119251\/2519172-greln001.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-2705\/",
+        "id": 2705,
+        "name": "Editorial Televisa"
+      },
+      "start_year": "2012",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 10,
+      "id": 60430,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/14\/148518\/3009572-grenlanrn1.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/14\/148518\/3009572-grenlanrn1.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/14\/148518\/3009572-grenlanrn1.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/14\/148518\/3009572-grenlanrn1.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/14\/148518\/3009572-grenlanrn1.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/14\/148518\/3009572-grenlanrn1.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/14\/148518\/3009572-grenlanrn1.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-4215\/",
+        "id": 4215,
+        "name": "TM-Semic"
+      },
+      "start_year": "1992",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 24,
+      "id": 55261,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/7\/78179\/2780228-greenlantern1_647.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/7\/78179\/2780228-greenlantern1_647.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/7\/78179\/2780228-greenlantern1_647.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/7\/78179\/2780228-greenlantern1_647.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/7\/78179\/2780228-greenlantern1_647.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/7\/78179\/2780228-greenlantern1_647.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/7\/78179\/2780228-greenlantern1_647.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-2350\/",
+        "id": 2350,
+        "name": "Panini Comics"
+      },
+      "start_year": "2012",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 38,
+      "id": 25944,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/2\/27783\/732037-gl_1.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/2\/27783\/732037-gl_1.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/2\/27783\/732037-gl_1.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/2\/27783\/732037-gl_1.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/2\/27783\/732037-gl_1.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/2\/27783\/732037-gl_1.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/2\/27783\/732037-gl_1.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-10\/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "start_year": "1941",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 183,
+      "id": 4363,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/0\/4\/29509-4363-32799-1-green-lantern.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/0\/4\/29509-4363-32799-1-green-lantern.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/0\/4\/29509-4363-32799-1-green-lantern.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/0\/4\/29509-4363-32799-1-green-lantern.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/0\/4\/29509-4363-32799-1-green-lantern.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/0\/4\/29509-4363-32799-1-green-lantern.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/0\/4\/29509-4363-32799-1-green-lantern.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-10\/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "start_year": "1990",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 89,
+      "id": 2013,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/0\/4\/4457-2013-4869-1-green-lantern.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/0\/4\/4457-2013-4869-1-green-lantern.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/0\/4\/4457-2013-4869-1-green-lantern.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/0\/4\/4457-2013-4869-1-green-lantern.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/0\/4\/4457-2013-4869-1-green-lantern.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/0\/4\/4457-2013-4869-1-green-lantern.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/0\/4\/4457-2013-4869-1-green-lantern.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-10\/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "start_year": "1960",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 67,
+      "id": 18216,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/0\/574\/146286-18216-111265-1-green-lantern.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/0\/574\/146286-18216-111265-1-green-lantern.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/0\/574\/146286-18216-111265-1-green-lantern.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/0\/574\/146286-18216-111265-1-green-lantern.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/0\/574\/146286-18216-111265-1-green-lantern.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/0\/574\/146286-18216-111265-1-green-lantern.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/0\/574\/146286-18216-111265-1-green-lantern.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-10\/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "start_year": "2005",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 2,
+      "id": 28230,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/3\/38919\/975015-gl_7.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/3\/38919\/975015-gl_7.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/3\/38919\/975015-gl_7.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/3\/38919\/975015-gl_7.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/3\/38919\/975015-gl_7.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/3\/38919\/975015-gl_7.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/3\/38919\/975015-gl_7.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-176\/",
+        "id": 176,
+        "name": "Planet Comics"
+      },
+      "start_year": "1975",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 33,
+      "id": 78611,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/11120\/111202620\/4256754-greenlantern_1.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/11120\/111202620\/4256754-greenlantern_1.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/11120\/111202620\/4256754-greenlantern_1.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/11120\/111202620\/4256754-greenlantern_1.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/11120\/111202620\/4256754-greenlantern_1.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/11120\/111202620\/4256754-greenlantern_1.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/11120\/111202620\/4256754-greenlantern_1.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-3432\/",
+        "id": 3432,
+        "name": "ECC Ediciones"
+      },
+      "start_year": "2012",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 9,
+      "id": 79177,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/11120\/111202620\/4301988-8353765127-2791..jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/11120\/111202620\/4301988-8353765127-2791..jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/11120\/111202620\/4301988-8353765127-2791..jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/11120\/111202620\/4301988-8353765127-2791..jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/11120\/111202620\/4301988-8353765127-2791..jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/11120\/111202620\/4301988-8353765127-2791..jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/11120\/111202620\/4301988-8353765127-2791..jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-2319\/",
+        "id": 2319,
+        "name": "Planeta DeAgostini"
+      },
+      "start_year": "2007",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 18,
+      "id": 79179,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/11120\/111202620\/4302188-4908474690-1863..jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/11120\/111202620\/4302188-4908474690-1863..jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/11120\/111202620\/4302188-4908474690-1863..jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/11120\/111202620\/4302188-4908474690-1863..jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/11120\/111202620\/4302188-4908474690-1863..jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/11120\/111202620\/4302188-4908474690-1863..jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/11120\/111202620\/4302188-4908474690-1863..jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-2319\/",
+        "id": 2319,
+        "name": "Planeta DeAgostini"
+      },
+      "start_year": "2009",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 2,
+      "id": 79350,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/11120\/111202620\/4319524-3093481032-49248.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/11120\/111202620\/4319524-3093481032-49248.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/11120\/111202620\/4319524-3093481032-49248.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/11120\/111202620\/4319524-3093481032-49248.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/11120\/111202620\/4319524-3093481032-49248.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/11120\/111202620\/4319524-3093481032-49248.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/11120\/111202620\/4319524-3093481032-49248.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-3432\/",
+        "id": 3432,
+        "name": "ECC Ediciones"
+      },
+      "start_year": "2012",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 47,
+      "id": 42808,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/0\/9116\/2008261-1.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/0\/9116\/2008261-1.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/0\/9116\/2008261-1.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/0\/9116\/2008261-1.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/0\/9116\/2008261-1.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/0\/9116\/2008261-1.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/0\/9116\/2008261-1.jpg"
+      },
+      "name": "Green Lantern",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-10\/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "start_year": "2011",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 1,
+      "id": 51323,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/7\/71975\/2536566-_t2ec16hhjf0e9nmftm_nbqk_ffgdwg__60_57.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/7\/71975\/2536566-_t2ec16hhjf0e9nmftm_nbqk_ffgdwg__60_57.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/7\/71975\/2536566-_t2ec16hhjf0e9nmftm_nbqk_ffgdwg__60_57.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/7\/71975\/2536566-_t2ec16hhjf0e9nmftm_nbqk_ffgdwg__60_57.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/7\/71975\/2536566-_t2ec16hhjf0e9nmftm_nbqk_ffgdwg__60_57.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/7\/71975\/2536566-_t2ec16hhjf0e9nmftm_nbqk_ffgdwg__60_57.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/7\/71975\/2536566-_t2ec16hhjf0e9nmftm_nbqk_ffgdwg__60_57.jpeg"
+      },
+      "name": "Green Lantern\/Green Arrow",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-10\/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "start_year": "2012",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 0,
+      "id": 59453,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/14\/148518\/2950920-44997_20060710084647_large.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/14\/148518\/2950920-44997_20060710084647_large.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/14\/148518\/2950920-44997_20060710084647_large.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/14\/148518\/2950920-44997_20060710084647_large.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/14\/148518\/2950920-44997_20060710084647_large.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/14\/148518\/2950920-44997_20060710084647_large.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/14\/148518\/2950920-44997_20060710084647_large.jpg"
+      },
+      "name": "Green Lantern\/Green Arrow",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-10\/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "start_year": "2004",
+      "resource_type": "volume"
+    },
+    {
+      "count_of_issues": 7,
+      "id": 3198,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/0\/4\/21075-3198-23505-1-green-lantern--gree.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/0\/4\/21075-3198-23505-1-green-lantern--gree.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/0\/4\/21075-3198-23505-1-green-lantern--gree.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/0\/4\/21075-3198-23505-1-green-lantern--gree.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/0\/4\/21075-3198-23505-1-green-lantern--gree.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/0\/4\/21075-3198-23505-1-green-lantern--gree.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/0\/4\/21075-3198-23505-1-green-lantern--gree.jpg"
+      },
+      "name": "Green Lantern\/Green Arrow",
+      "publisher": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/publisher\/4010-10\/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "start_year": "1983",
+      "resource_type": "volume"
+    }
+  ],
+  "version": "1.0"
+}

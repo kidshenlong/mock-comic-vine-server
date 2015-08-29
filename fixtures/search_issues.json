@@ -1,0 +1,263 @@
+{
+  "error": "OK",
+  "limit": 20,
+  "offset": 0,
+  "number_of_page_results": 12,
+  "number_of_total_results": 12,
+  "status_code": 1,
+  "results": [
+    {
+      "id": 106280,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352259-all_star_superman__2005__06.jpeg"
+      },
+      "issue_number": "6",
+      "name": "Episode 6: Funeral in Smallville",
+      "description" : "",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 106922,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg"
+      },
+      "issue_number": "1",
+      "name": "...Faster...",
+      "description" : "",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 106923,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352253-all_star_superman__2005__02.jpeg"
+      },
+      "issue_number": "2",
+      "name": "Superman's Forbidden Room",
+      "description" : "",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 106924,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352256-all_star_superman__2005__03.jpeg"
+      },
+      "issue_number": "3",
+      "name": "Sweet Dreams, Superwoman...",
+      "description" : "",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 106925,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352257-all_star_superman__2005__04.jpeg"
+      },
+      "issue_number": "4",
+      "name": "The Superman \/ Olsen War!",
+      "description" : "",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 106926,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352258-all_star_superman__2005__05.jpeg"
+      },
+      "issue_number": "5",
+      "name": "Episode 5: The Gospel According to Lex Luthor",
+      "description" : "",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 108361,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352260-all_star_superman__2005__07.jpeg"
+      },
+      "issue_number": "7",
+      "name": "Episode 7: Being Bizarro",
+      "description" : "",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 111445,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352261-all_star_superman__2005__08.jpeg"
+      },
+      "issue_number": "8",
+      "description" : "",
+      "name": "Us Do Opposite",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 117768,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352262-all_star_superman__2005__09.jpeg"
+      },
+      "issue_number": "9",
+      "description" : "",
+      "name": "Curse of the Replacement Supermen",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 125970,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352263-all_star_superman__2005__10.jpeg"
+      },
+      "issue_number": "10",
+      "name": "Neverending",
+      "description" : "",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 131095,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2467144-all_star_superman__2005__11.jpeg"
+      },
+      "issue_number": "11",
+      "name": "Red Sun Day",
+      "description" : "",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    },
+    {
+      "id": 139029,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352265-all_star_superman__2005__12.jpeg"
+      },
+      "issue_number": "12",
+      "name": "Superman In Excelsis",
+      "description" : "",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
+        "id": 18139,
+        "name": "All Star Superman",
+        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+      }
+    }
+  ],
+  "version": "1.0"
+}

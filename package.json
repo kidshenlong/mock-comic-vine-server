@@ -1,0 +1,22 @@
+{
+  "name": "mock-comic-vine-server",
+  "version": "0.0.1",
+  "description": "A Node.js server for mocking responses from Comic Vine in the test/dev environment ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kidshenlong/mock-comic-vine-server.git"
+  },
+  "author": "Michael Patterson-Muir <michaelpm91@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kidshenlong/mock-comic-vine-server/issues"
+  },
+  "homepage": "https://github.com/kidshenlong/mock-comic-vine-server",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
