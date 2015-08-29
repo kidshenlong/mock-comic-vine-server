@@ -1,0 +1,91 @@
+{
+  "error": "OK",
+  "limit": 20,
+  "offset": 20,
+  "number_of_page_results": 4,
+  "number_of_total_results": 24,
+  "status_code": 1,
+  "results": [
+    {
+      "id": 448926,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3724739-21.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3724739-21.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3724739-21.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3724739-21.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3724739-21.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3724739-21.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3724739-21.jpg"
+      },
+      "issue_number": "21",
+      "name": null,
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 452270,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3816246-22.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3816246-22.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3816246-22.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3816246-22.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3816246-22.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3816246-22.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3816246-22.jpg"
+      },
+      "issue_number": "22",
+      "name": null,
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 456505,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/66303\/3897058-fatale.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/66303\/3897058-fatale.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/66303\/3897058-fatale.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/66303\/3897058-fatale.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/66303\/3897058-fatale.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/66303\/3897058-fatale.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/66303\/3897058-fatale.jpg"
+      },
+      "issue_number": "23",
+      "name": null,
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 461000,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/4000402-24.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/4000402-24.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/4000402-24.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/4000402-24.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/4000402-24.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/4000402-24.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/4000402-24.jpg"
+      },
+      "issue_number": "24",
+      "name": null,
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    }
+  ],
+  "version": "1.0"
+}

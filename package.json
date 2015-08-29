@@ -1,6 +1,6 @@
 {
   "name": "mock-comic-vine-server",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "A Node.js server for mocking responses from Comic Vine in the test/dev environment ",
   "main": "server.js",
   "scripts": {

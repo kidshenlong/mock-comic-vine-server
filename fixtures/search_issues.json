@@ -2,260 +2,408 @@
   "error": "OK",
   "limit": 20,
   "offset": 0,
-  "number_of_page_results": 12,
-  "number_of_total_results": 12,
+  "number_of_page_results": 20,
+  "number_of_total_results": 24,
   "status_code": 1,
   "results": [
     {
-      "id": 106280,
+      "id": 309308,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352259-all_star_superman__2005__06.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352259-all_star_superman__2005__06.jpeg"
-      },
-      "issue_number": "6",
-      "name": "Episode 6: Funeral in Smallville",
-      "description" : "",
-      "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
-      }
-    },
-    {
-      "id": 106922,
-      "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352251-all_star_superman__2005__01a.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/1\/18863\/2146513-picture_7.png",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/1\/18863\/2146513-picture_7.png",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/1\/18863\/2146513-picture_7.png",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/1\/18863\/2146513-picture_7.png",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/1\/18863\/2146513-picture_7.png",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/1\/18863\/2146513-picture_7.png",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/1\/18863\/2146513-picture_7.png"
       },
       "issue_number": "1",
-      "name": "...Faster...",
-      "description" : "",
+      "name": "Book One: Death Chases Me",
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     },
     {
-      "id": 106923,
+      "id": 313908,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352253-all_star_superman__2005__02.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352253-all_star_superman__2005__02.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3434667-02.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3434667-02.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3434667-02.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3434667-02.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3434667-02.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3434667-02.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3434667-02.jpg"
       },
       "issue_number": "2",
-      "name": "Superman's Forbidden Room",
-      "description" : "",
+      "name": null,
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     },
     {
-      "id": 106924,
+      "id": 319308,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352256-all_star_superman__2005__03.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352256-all_star_superman__2005__03.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3434668-03.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3434668-03.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3434668-03.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3434668-03.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3434668-03.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3434668-03.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3434668-03.jpg"
       },
       "issue_number": "3",
-      "name": "Sweet Dreams, Superwoman...",
-      "description" : "",
+      "name": null,
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     },
     {
-      "id": 106925,
+      "id": 327183,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352257-all_star_superman__2005__04.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352257-all_star_superman__2005__04.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3434655-04.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3434655-04.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3434655-04.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3434655-04.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3434655-04.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3434655-04.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3434655-04.jpg"
       },
       "issue_number": "4",
-      "name": "The Superman \/ Olsen War!",
-      "description" : "",
+      "name": null,
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     },
     {
-      "id": 106926,
+      "id": 335028,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352258-all_star_superman__2005__05.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352258-all_star_superman__2005__05.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/7\/71975\/2488783-fatale_05_001.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/7\/71975\/2488783-fatale_05_001.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/7\/71975\/2488783-fatale_05_001.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/7\/71975\/2488783-fatale_05_001.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/7\/71975\/2488783-fatale_05_001.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/7\/71975\/2488783-fatale_05_001.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/7\/71975\/2488783-fatale_05_001.jpg"
       },
       "issue_number": "5",
-      "name": "Episode 5: The Gospel According to Lex Luthor",
-      "description" : "",
+      "name": null,
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     },
     {
-      "id": 108361,
+      "id": 342882,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352260-all_star_superman__2005__07.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352260-all_star_superman__2005__07.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3434656-06.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3434656-06.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3434656-06.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3434656-06.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3434656-06.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3434656-06.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3434656-06.jpg"
+      },
+      "issue_number": "6",
+      "name": "Book Two: The Devil's Business",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 351099,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3434657-07.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3434657-07.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3434657-07.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3434657-07.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3434657-07.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3434657-07.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3434657-07.jpg"
       },
       "issue_number": "7",
-      "name": "Episode 7: Being Bizarro",
-      "description" : "",
+      "name": null,
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     },
     {
-      "id": 111445,
+      "id": 359858,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352261-all_star_superman__2005__08.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352261-all_star_superman__2005__08.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/2625615-08.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/2625615-08.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/2625615-08.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/2625615-08.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/2625615-08.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/2625615-08.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/2625615-08.jpg"
       },
       "issue_number": "8",
-      "description" : "",
-      "name": "Us Do Opposite",
+      "name": null,
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     },
     {
-      "id": 117768,
+      "id": 364156,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352262-all_star_superman__2005__09.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352262-all_star_superman__2005__09.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/2675522-09.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/2675522-09.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/2675522-09.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/2675522-09.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/2675522-09.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/2675522-09.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/2675522-09.jpg"
       },
       "issue_number": "9",
-      "description" : "",
-      "name": "Curse of the Replacement Supermen",
+      "name": null,
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     },
     {
-      "id": 125970,
+      "id": 370304,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352263-all_star_superman__2005__10.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352263-all_star_superman__2005__10.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/7\/71975\/2723301-prv14356_cov.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/7\/71975\/2723301-prv14356_cov.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/7\/71975\/2723301-prv14356_cov.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/7\/71975\/2723301-prv14356_cov.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/7\/71975\/2723301-prv14356_cov.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/7\/71975\/2723301-prv14356_cov.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/7\/71975\/2723301-prv14356_cov.jpg"
       },
       "issue_number": "10",
-      "name": "Neverending",
-      "description" : "",
+      "name": null,
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     },
     {
-      "id": 131095,
+      "id": 376647,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2467144-all_star_superman__2005__11.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2467144-all_star_superman__2005__11.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/2781269-11.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/2781269-11.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/2781269-11.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/2781269-11.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/2781269-11.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/2781269-11.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/2781269-11.jpg"
       },
       "issue_number": "11",
-      "name": "Red Sun Day",
-      "description" : "",
+      "name": "The Case of Alfred Ravenscroft",
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     },
     {
-      "id": 139029,
+      "id": 386146,
       "image": {
-        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
-        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
-        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
-        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
-        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
-        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/5\/56044\/2352265-all_star_superman__2005__12.jpeg",
-        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/5\/56044\/2352265-all_star_superman__2005__12.jpeg"
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/2867388-12.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/2867388-12.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/2867388-12.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/2867388-12.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/2867388-12.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/2867388-12.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/2867388-12.jpg"
       },
       "issue_number": "12",
-      "name": "Superman In Excelsis",
-      "description" : "",
+      "name": "A Lovely Sort of Death",
       "volume": {
-        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-18139\/",
-        "id": 18139,
-        "name": "All Star Superman",
-        "site_detail_url": "http:\/\/www.comicvine.com\/all-star-superman\/4050-18139\/"
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 395298,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/2952107-13.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/2952107-13.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/2952107-13.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/2952107-13.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/2952107-13.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/2952107-13.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/2952107-13.jpg"
+      },
+      "issue_number": "13",
+      "name": "Down the Darkest Trail",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 402321,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3045852-14.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3045852-14.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3045852-14.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3045852-14.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3045852-14.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3045852-14.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3045852-14.jpg"
+      },
+      "issue_number": "14",
+      "name": "Just A Glance Away",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 413675,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3130970-15.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3130970-15.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3130970-15.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3130970-15.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3130970-15.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3130970-15.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3130970-15.jpg"
+      },
+      "issue_number": "15",
+      "name": null,
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 420653,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3226951-16.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3226951-16.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3226951-16.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3226951-16.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3226951-16.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3226951-16.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3226951-16.jpg"
+      },
+      "issue_number": "16",
+      "name": null,
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 426910,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3331162-17.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3331162-17.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3331162-17.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3331162-17.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3331162-17.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3331162-17.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3331162-17.jpg"
+      },
+      "issue_number": "17",
+      "name": null,
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 432305,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3428231-18.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3428231-18.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3428231-18.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3428231-18.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3428231-18.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3428231-18.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3428231-18.jpg"
+      },
+      "issue_number": "18",
+      "name": null,
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 441597,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3560231-19.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3560231-19.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3560231-19.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3560231-19.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3560231-19.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3560231-19.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3560231-19.jpg"
+      },
+      "issue_number": "19",
+      "name": null,
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
+      }
+    },
+    {
+      "id": 445154,
+      "image": {
+        "icon_url": "http:\/\/static.comicvine.com\/uploads\/square_avatar\/6\/67663\/3640093-20.jpg",
+        "medium_url": "http:\/\/static.comicvine.com\/uploads\/scale_medium\/6\/67663\/3640093-20.jpg",
+        "screen_url": "http:\/\/static.comicvine.com\/uploads\/screen_medium\/6\/67663\/3640093-20.jpg",
+        "small_url": "http:\/\/static.comicvine.com\/uploads\/scale_small\/6\/67663\/3640093-20.jpg",
+        "super_url": "http:\/\/static.comicvine.com\/uploads\/scale_large\/6\/67663\/3640093-20.jpg",
+        "thumb_url": "http:\/\/static.comicvine.com\/uploads\/scale_avatar\/6\/67663\/3640093-20.jpg",
+        "tiny_url": "http:\/\/static.comicvine.com\/uploads\/square_mini\/6\/67663\/3640093-20.jpg"
+      },
+      "issue_number": "20",
+      "name": "Curse the Demon",
+      "volume": {
+        "api_detail_url": "http:\/\/www.comicvine.com\/api\/volume\/4050-44935\/",
+        "id": 44935,
+        "name": "Fatale",
+        "site_detail_url": "http:\/\/www.comicvine.com\/fatale\/4050-44935\/"
       }
     }
   ],
